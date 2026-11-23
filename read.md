@@ -29,8 +29,9 @@
 
 ## Installation
 1. Install PostgreSQL.
-2. Create a database named real_estate_db.
-3. Run schema.sql.
-4. Run data.sql.
+2. \c real_estate_db
+3. Create a database named real_estate_db if it does not exist.
+4. Run schema.sql.
+5. Run data.sql.
 
 
